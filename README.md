@@ -1,1 +1,1 @@
-# This code is respossible for preprocess 'alice' data for Slab
+# This code is responsible for preprocess 'alice' data for Slab
